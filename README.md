@@ -1,0 +1,1 @@
+An old project simulates thousands of agents, each drawn to the trails of others with varying levels of pheromonal strength, attraction, and randomness. The result is a fun, semi-hypnotic, visual that’s fairly satisfying to watch.
